@@ -26,6 +26,8 @@ The Pomodoro Timer is a web-based application designed to enhance productivity u
 - Explored basic DOM manipulation for updating timer display dynamically.
 - Gained familiarity with GitHub for version control and project hosting.
 
+# Website Link
+- http://127.0.0.1:5500/index.html
 # Author
 Trisha Sharma
 
