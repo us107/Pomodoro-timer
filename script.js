@@ -83,3 +83,4 @@ var pomodoro = {
 window.onload = function(){
   pomodoro.init();
 };
+
