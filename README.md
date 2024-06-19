@@ -27,7 +27,7 @@ The Pomodoro Timer is a web-based application designed to enhance productivity u
 - Gained familiarity with GitHub for version control and project hosting.
 
 # Website Link
-- http://127.0.0.1:5500/index.html
+-[ http://127.0.0.1:5500/index.html](https://heroic-kangaroo-fc46c6.netlify.app/)
 # Author
 Trisha Sharma
 
